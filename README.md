@@ -1,6 +1,6 @@
 # interface-register-app
 
-# Check application <a href="https://app.netlify.com/sites/register-app-interface/overview">here !</a>
+# Check application <a href="https://register-app-interface.netlify.app/">here !</a>
 # is an application made for classes on youtube, you can check it out <a href="https://www.youtube.com/watch?v=TPXr2fkz0EM">here !</a>
 
 

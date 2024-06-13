@@ -49,7 +49,7 @@ function App() {
         <label>
           Nome
           <input
-            placeholder="Pedro Silva"
+            placeholder="Digite seu nome..."
             type="name"
             value={name}
             onChange={(e) => setName(e.target.value)}

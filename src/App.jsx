@@ -44,10 +44,10 @@ function App() {
     <div className="app">
       <div className="screen">
         <img src={Image} alt="image" />
-        <h1>Register</h1>
+        <h1>Registro de Usuários</h1>
 
         <label>
-          Name
+          Nome
           <input
             placeholder="Pedro Silva"
             type="name"
@@ -66,7 +66,7 @@ function App() {
           />
         </label>
 
-        <button onClick={addNewUser}>Register new user</button>
+        <button onClick={addNewUser}>Registrar Novo Usuário</button>
 
         <ul>
           {users.map((user) => (

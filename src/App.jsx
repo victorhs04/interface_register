@@ -2,7 +2,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 
 import "./App.css";
-import Image from "./assets/image.svg";
+
 import Trash from "./assets/trash.svg";
 
 function App() {
@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="app">
       <div className="screen">
-        <img src={Image} alt="image" />
+        
         <h1>Registro de Usuários</h1>
 
         <label>

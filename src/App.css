@@ -10,7 +10,7 @@
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background: #8b0000;
+  background: black;
   width: 100%;
   min-height: 100vh;
 }
@@ -47,7 +47,7 @@ input {
   margin: 6px;
   width: 100%;
   height: 42px;
-  background: #252531;
+  background: grey;
   border-radius: 8px;
   outline: none;
   padding: 10px;
@@ -64,7 +64,7 @@ button {
   margin-top: 24px;
   width: 100%;
   height: 42px;
-  background: #252531;
+  background: grey;
   border-radius: 1000px;
   cursor: pointer;
 
@@ -100,7 +100,7 @@ li {
   display: flex;
   justify-content: space-between;
   height: 70px;
-  background: #252531;
+  background: grey;
   border-radius: 8px;
   align-items: center;
   padding: 6px;
